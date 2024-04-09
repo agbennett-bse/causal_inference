@@ -16,6 +16,7 @@ The purpose of this test multiple techniques for causal inference.
 
 ### Technologies
 * Python
+* STATA
 
 ## Project Description
 In this project, there is an exploration of multiple causal inference techniques. The German politics project explores logit and probit models, while the US unemployment project explores two step methods. Causal Inference graphs and double ML techniques were also explored in the project. 
